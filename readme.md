@@ -27,6 +27,9 @@ Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e
    ```sh
    Set-ExecutionPolicy RemoteSigned
    ```
+   ```sh
+   .\venv\Scripts\activate
+   ```
 
 4. **Instale as dependências:**
    ```sh
